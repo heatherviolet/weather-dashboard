@@ -1,0 +1,17 @@
+
+.dashboard {
+    margin: -15px;
+    padding: 1px 1px 1px 1px;
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(to right, rgb(81, 81, 207) , rgb(20, 6, 102));
+}
+
+.forcast {
+    display: flex;
+    height: 300px;
+    width: 150px;
+    border: 1px solid black;
+    display: inline-block;
+    background-color: rgb(53, 72, 85);
+  }
